@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-1-simple_pagination.py
+imple_pagination.py
 """
 import csv
 import math
